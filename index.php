@@ -13,14 +13,7 @@
 
   <head>
     <meta charset="utf-8" />
-    <meta name="keywords" content="key, words" />
-    <meta name="description" content="description" />
-
-    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
-
     <title>Here is your moment of prime.</title>
-
   </head>
   <body>
 
