@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-  <!--
-
-      WHATISMYPRIMENUMBER.COM
-    
-      Uttering the name of GOD one syllable at a time
-
-      since December 4, 2011
-
-  -->
-
   <head>
     <meta charset="utf-8" />
     <title>Here is your moment of prime.</title>
